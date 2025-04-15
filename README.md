@@ -33,13 +33,6 @@ Plausible as a simulation model. Usable for research or early-stage policy model
 
 ---
 
-## Files
-
-- `SSR_Report_KR_v1.1.md` – Full simulation logic and results  
-- `SSR_values_S2.csv` – Scenario 2 collapse risk table
-
----
-
 ## Contact ##
 
 email: sks38317@naver(dot)com
