@@ -47,9 +47,11 @@ Despite its independent nature, the methodology reflects formal social modeling 
 - Variable estimation was derived manually based on historical precedent, probabilistic assumptions, and synthetic scenario modeling.  
 - English version was written by the author directly with AI-supported editing.
 
-##
+---
 
 **Feedback, replication attempts, or critique are welcome.**  
 If you have suggestions, feel free to open an issue or leave a comment.
-##
+
+---
+
 **email** : `sks38317@naver.com`
