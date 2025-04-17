@@ -34,9 +34,10 @@ Plausible as a simulation model. Usable for research or early-stage policy model
 ---
 
 ## Files
-> **Full simulation report is in Korean **
+> **Full simulation report is in Korean, and English **
 
-- `SSR_simulation.md` Full simulation (KR vs World)
+- `simulation(En).md` Full simulation (En)
+- `SSR_simulation.md` Full simulation (Kr)
 - `demonstrating_simulation.md` GPT-4.5's summary review of the simulation's logic and real-world validity.
 
 ---
