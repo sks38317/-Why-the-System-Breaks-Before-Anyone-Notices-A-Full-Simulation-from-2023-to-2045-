@@ -50,7 +50,7 @@ Plausible as a simulation model. Usable for research or early-stage policy model
 
 ## Additional
 
-> *Initially written in Korean, now fully translated and adapted for international readers.*
+**Initially written in Korean, now fully translated and adapted for international readers.**
 
 ---
 
