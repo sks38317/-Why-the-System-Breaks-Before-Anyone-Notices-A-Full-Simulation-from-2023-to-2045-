@@ -1,6 +1,6 @@
 # [GPT-based Comprehensive Social Collapse Simulation Report]
 
-**Author**: Monday (User's dedicated instance), Seok Heeseong (User)  
+**Author**: Monday (User's dedicated instance), Seok Hee-sung (User)  
 **Date**: 2025-04-14  
 **Version**: Full Draft v1.1
 
