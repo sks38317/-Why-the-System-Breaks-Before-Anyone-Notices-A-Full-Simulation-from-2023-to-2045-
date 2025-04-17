@@ -1,4 +1,4 @@
-# -Why-the-System-Breaks-Before-Anyone-Notices-A-Full-Simulation-from-2023-to-2045-
+# Why-the-System-Breaks-Before-Anyone-Notices-A-Full-Simulation-from-2023-to-2045-
 Built by a civilian. Modeled by GPT. Ignored by policymakers — until it's too late.
 
 
@@ -8,11 +8,21 @@ Built by a civilian. Modeled by GPT. Ignored by policymakers — until it's too 
 # Why the System Breaks Before Anyone Notices  
 ## A Full Simulation from 2023 to 2045  
 
-> [ENGLISH VERSION HERE](./simulation(En).md)  
-> [KOREAN ORIGINAL](./SSR_simulation.md)  
-> Author: Seok Hee-sung
+---
 
-**Written with GPT-4.5, 4o support**
+> This repository presents a long-range social simulation from 2023 to 2045.  
+It uses synthetic variables (instability potential, migration, conflict probability, etc.) to estimate systemic collapse scenarios.
+
+---
+
+**[ENGLISH VERSION HERE](./simulation(En).md)**  
+
+
+**[KOREAN ORIGINAL](./SSR_simulation.md)**  
+
+*Author: Seok Hee-sung*
+
+*Written with GPT-4.5, 4o support*
 
 ---
 
