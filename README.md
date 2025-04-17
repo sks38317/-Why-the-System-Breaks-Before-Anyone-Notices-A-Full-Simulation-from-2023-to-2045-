@@ -1,71 +1,53 @@
-# Why-the-System-Breaks-Before-Anyone-Notices-A-Full-Simulation-from-2023-to-2045-
-Built by a civilian. Modeled by GPT. Ignored by policymakers — until it's too late.
-
-
- ---
-
-
 # Why the System Breaks Before Anyone Notices  
+## A Long-Range Social Simulation (2023–2045)
 
-> This repository presents a long-range social simulation from 2023 to 2045.  
-It uses synthetic variables (instability potential, migration, conflict probability, etc.) to estimate systemic collapse scenarios.
-
-##
-
-## A Full Simulation from 2023 to 2045
-
-
-**[ENGLISH VERSION HERE](./simulation(En).md)**  
-
-**[KOREAN ORIGINAL](./SSR_simulation.md)**  
-
----
-
-*Author: Seok Hee-sung*
-
-*Written with GPT-4.5, 4o support*
+**Author:** [Seok Hee-sung](https://github.com/sks38317)  
+**Assisted by:** GPT-4.5, 4o
 
 ##
 
-## TL;DR
+### Overview
 
-- **Systemic Collapse Simulation (SSR)**  
-- Based on distrust (SIP), food shocks (ΔF), migration (M), unemployment (U), and conflict (C)  
-- Covers 2023~2045, 2-year intervals
+This repository contains a full-scale simulation exploring how modern socio-economic systems may approach critical breakdown thresholds between the years **2023 and 2045**.
 
-> **2045 Collapse Risk: 98.4% (Korea), 97.2% (Global)**  
-> **Peak Social Unrest: 7.13 index (out of 10)**
+The simulation is based on synthetic variables including:
 
-##
+- **SIP** – Social Instability Potential  
+- **ΔF** – Food Supply Stress  
+- **M** – Migration Flow  
+- **U** – Unemployment  
+- **C** – Internal Conflict Risk  
 
-## AI Evaluation (GPT-4.5)
-
-> **“No exaggeration found. Variable logic and risk scaling are technically sound.  
-Plausible as a simulation model. Usable for research or early-stage policy modeling.”**
+These are used to project a probability of systemic collapse (SSR), applying exponential models and feedback loop assumptions.
 
 ##
 
-## Files
+### Key Documents
 
-- `simulation(En).md` Full simulation (En)
-- `SSR_simulation.md` Full simulation (Kr)
-- `demonstrating_simulation.md` GPT-4.5's summary review of the simulation's logic and real-world validity.
+- [**ENGLISH Version – Full Simulation**](./simulation(En).md)  
+- [**KOREAN Original**](./SSR_simulation.md)  
+- [**GPT-4.5 Evaluation Summary**](./demonstrating_simulation.md)
 
 ##
 
-## Contact
+### Highlight
 
-**email: sks38317@naver(dot)com**
+> “When systems collapse, they rarely shout.  
+> They whisper—and we ignore them.”
 
----
+This project began as an experimental idea from a Korean high school student preparing for the CSAT exam.  
+It has since grown into a modular simulation framework with real-time interpretation, variable-driven logic, and AI-evaluated feedback.  
+Despite its independent nature, the methodology reflects formal social modeling techniques.
 
-## Additional
+##
 
-Initially written in Korean, now fully translated and adapted for international readers.
+### Notes
 
----
+- The simulation logic was co-developed using **GPT-4.5** in a hybrid prompt-coding structure.  
+- Variable estimation was derived manually based on historical precedent, probabilistic assumptions, and synthetic scenario modeling.  
+- English version was written by the author directly with AI-supported editing.
 
-**_[ This was written before collapse.  
-So someone could say they knew. ]_**
+##
 
----
+**Feedback, replication attempts, or critique are welcome.**  
+If you have suggestions, feel free to open an issue or leave a comment.
