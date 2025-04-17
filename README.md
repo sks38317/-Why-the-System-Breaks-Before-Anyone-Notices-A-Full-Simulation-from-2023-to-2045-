@@ -2,9 +2,12 @@
 Built by a civilian. Modeled by GPT. Ignored by policymakers — until it's too late.
 
 
+# Why the System Breaks Before Anyone Notices  
+## A Full Simulation from 2023 to 2045  
 
-
-
+> [ENGLISH VERSION HERE](./simulation(En).md)  
+> [KOREAN ORIGINAL](./SSR_simulation.md)  
+> Author: sks38317 | Written with GPT-4.5 support
 
 
 # Why the System Breaks Before Anyone Notices  
