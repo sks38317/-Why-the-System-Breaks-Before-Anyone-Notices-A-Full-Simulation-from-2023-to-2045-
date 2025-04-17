@@ -25,8 +25,8 @@ These are used to project a probability of systemic collapse (SSR), applying exp
 ### Key Documents
 
 - [**ENGLISH Version – Full Simulation**](./simulation(En).md)  
-- [**KOREAN Original**](./SSR_simulation.md)  
-- [**GPT-4.5 Evaluation Summary**](./demonstrating_simulation.md)
+- [**KOREAN Original**](./ssr_simulation.md)  
+- [**GPT-4.5 Evaluation Summary**](./rate_simulation.md)
 
 ##
 
@@ -51,3 +51,5 @@ Despite its independent nature, the methodology reflects formal social modeling 
 
 **Feedback, replication attempts, or critique are welcome.**  
 If you have suggestions, feel free to open an issue or leave a comment.
+##
+**email** : `sks38317@naver.com`
