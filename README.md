@@ -6,12 +6,15 @@ Built by a civilian. Modeled by GPT. Ignored by policymakers — until it's too 
 
 
 # Why the System Breaks Before Anyone Notices  
-## A Full Simulation from 2023 to 2045  
 
 ---
 
 > This repository presents a long-range social simulation from 2023 to 2045.  
 It uses synthetic variables (instability potential, migration, conflict probability, etc.) to estimate systemic collapse scenarios.
+
+---
+
+## A Full Simulation from 2023 to 2045  
 
 ---
 
