@@ -10,7 +10,9 @@ Built by a civilian. Modeled by GPT. Ignored by policymakers — until it's too 
 
 > [ENGLISH VERSION HERE](./simulation(En).md)  
 > [KOREAN ORIGINAL](./SSR_simulation.md)  
-> Author: Seok Hee-sung | Written with GPT-4.5 support
+> Author: Seok Hee-sung
+
+**Written with GPT-4.5, 4o support**
 
 ---
 
