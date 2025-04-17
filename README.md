@@ -7,27 +7,25 @@ Built by a civilian. Modeled by GPT. Ignored by policymakers — until it's too 
 
 # Why the System Breaks Before Anyone Notices  
 
----
-
 > This repository presents a long-range social simulation from 2023 to 2045.  
 It uses synthetic variables (instability potential, migration, conflict probability, etc.) to estimate systemic collapse scenarios.
 
----
+##
 
-## A Full Simulation from 2023 to 2045  
+## A Full Simulation from 2023 to 2045
 
----
 
 **[ENGLISH VERSION HERE](./simulation(En).md)**  
 
-
 **[KOREAN ORIGINAL](./SSR_simulation.md)**  
+
+---
 
 *Author: Seok Hee-sung*
 
 *Written with GPT-4.5, 4o support*
 
----
+##
 
 ## TL;DR
 
@@ -38,14 +36,14 @@ It uses synthetic variables (instability potential, migration, conflict probabil
 > **2045 Collapse Risk: 98.4% (Korea), 97.2% (Global)**  
 > **Peak Social Unrest: 7.13 index (out of 10)**
 
----
+##
 
 ## AI Evaluation (GPT-4.5)
 
 > **“No exaggeration found. Variable logic and risk scaling are technically sound.  
 Plausible as a simulation model. Usable for research or early-stage policy modeling.”**
 
----
+##
 
 ## Files
 
@@ -53,7 +51,7 @@ Plausible as a simulation model. Usable for research or early-stage policy model
 - `SSR_simulation.md` Full simulation (Kr)
 - `demonstrating_simulation.md` GPT-4.5's summary review of the simulation's logic and real-world validity.
 
----
+##
 
 ## Contact
 
@@ -63,9 +61,11 @@ Plausible as a simulation model. Usable for research or early-stage policy model
 
 ## Additional
 
-**Initially written in Korean, now fully translated and adapted for international readers.**
+Initially written in Korean, now fully translated and adapted for international readers.
 
 ---
 
-> _This was written before collapse.  
-So someone could say they knew._
+**_[ This was written before collapse.  
+So someone could say they knew. ]_**
+
+---
