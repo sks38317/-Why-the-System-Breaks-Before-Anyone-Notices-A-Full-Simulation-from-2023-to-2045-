@@ -9,9 +9,20 @@
 
 ##
 
-### Overview
+## Overview
 
-This repository contains a full-scale simulation exploring how modern socio-economic systems may approach critical breakdown thresholds between the years **2023 and 2045**.
+
+#### Model Definitions
+
+**Instability (SIP – Social Instability Potential):**  
+Represents accumulated societal tension due to factors such as public distrust, economic disruption, unemployment, migration, or unrest. SIP indicates how internally unstable a system has become.
+
+**Collapse (SSR – Systemic Shutdown Rate):**  
+Indicates the likelihood of systemic failure when instability exceeds a critical threshold. In this model, collapse includes government dysfunction, infrastructure breakdown, or irreversible societal fragmentation.
+
+##
+
+#### Simulation explain
 
 The simulation is based on synthetic variables including:
 
@@ -25,7 +36,7 @@ These are used to project a probability of systemic collapse (SSR), applying exp
 
 ##
 
-### Key Documents
+## Key Documents
 
 - [**ENGLISH Version – Full Simulation**](./simulation(En).md)  
 - [**KOREAN Original**](./ssr_simulation.md)  
@@ -33,7 +44,7 @@ These are used to project a probability of systemic collapse (SSR), applying exp
 
 ##
 
-### Highlight
+## Highlight
 
 > “When systems collapse, they rarely shout.  
 > They whisper—and we ignore them.”
