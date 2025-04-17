@@ -1,8 +1,11 @@
 # Why the System Breaks Before Anyone Notices  
 ## A Long-Range Social Simulation (2023–2045)
 
-**Author:** [Seok Hee-sung](https://github.com/sks38317)  
-**Assisted by:** GPT-4.5, 4o
+
+**Author:** [ **[Seok Hee-sung](https://github.com/sks38317)** ]
+
+**Assisted by:** [_GPT-4.5, GPT-4o_]
+
 
 ##
 
@@ -54,4 +57,4 @@ If you have suggestions, feel free to open an issue or leave a comment.
 
 ---
 
-**email** : `sks38317@naver.com`
+**Email:** [_`sks38317@naver.com`_]
