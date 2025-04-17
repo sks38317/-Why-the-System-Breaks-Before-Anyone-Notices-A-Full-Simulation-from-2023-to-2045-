@@ -44,7 +44,13 @@ Plausible as a simulation model. Usable for research or early-stage policy model
 
 ## Contact
 
-email: sks38317@naver(dot)com
+**email: sks38317@naver(dot)com**
+
+---
+
+## Additional
+
+> Initially written in Korean, now fully translated and adapted for international readers.
 
 ---
 
