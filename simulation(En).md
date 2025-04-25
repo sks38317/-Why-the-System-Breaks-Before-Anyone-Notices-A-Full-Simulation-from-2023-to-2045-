@@ -98,7 +98,7 @@ Systemic Collapse(t) = max(0, SSR(t) − 0.5) × 1.2
 
 This formula reflects the cumulative risk development across time based on variable intensities and their interactions.
 
-### 4.2 Summary Table (Scenario 2 Progression)
+### 4.2 Summary Table (Korea Scenario 2 Progression)
 
 | Year | SIP | ΔF | M  | U  | C  | SSR(t) | Collapse Factor | Unrest Factor |
 |------|-----|----|----|----|----|--------|------------------|----------------|
